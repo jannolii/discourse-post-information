@@ -1,0 +1,4 @@
+plugins:
+  post_information_enabled:
+    default: false
+    client: true
